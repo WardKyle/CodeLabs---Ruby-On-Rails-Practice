@@ -1,0 +1,9 @@
+ => 
+[32m#<Post:0x00007f013a983400[0m
+ id: [34m[1m1[0m,
+ title: [31m[1m"[0m[31mHello World[0m[31m[1m"[0m,
+ body: [31m[1m"[0m[31mThis is my first post[0m[31m[1m"[0m,
+ published: [36m[1mtrue[0m,
+ published_at: Sat, 30 Dec 2023 19:17:08.000000000 UTC +00:00,
+ created_at: Sun, 28 Jan 2024 23:12:26.866829000 UTC +00:00,
+ updated_at: Sun, 28 Jan 2024 23:12:26.866829000 UTC +00:00[32m>[0m 
